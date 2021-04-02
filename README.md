@@ -24,6 +24,6 @@ There it is. Right in front of you. The flaw that tried so hard to hide itself f
 
 As its god you understand how it works. You understand how to leverage it to defeat the system.
 
-You string together the instructions that will ultimately lead to its demise. It started as a seemingly random glitch, then became reproducible and through your understanding manifested itself as a fully automated exploit.
+You string together the instructions that will ultimately lead to its demise. It started as a seemingly random glitch, then became reproducible and through your understanding at this very moment manifested itself as a fully automated exploit.
 
 Congratulations, friend. You are now the god of the system.

@@ -1,4 +1,4 @@
-# Hacking: Explained
+# Down the Rabbit Hole
 
 At first, you stare at an unknown system. You understand nothing but try everything.
 
@@ -10,9 +10,9 @@ You start to lose your patience. Your mind relentlessly tries to uncover the fla
 
 You continue to try things because you know you have to try harder.
 
-Each step taken from here is a mirror of your knowledge, understanding, cleverness, creativity and intuition at this very moment. A wild ride through your neural pathways.
+Each step taken from here is a mirror of your knowledge, creativity and intuition at this very moment. A wild ride through your neural pathways.
 
-On the hunt for something out of the ordinary you send out your little neuronal spiders to crawl every bit of information about the system and match it against your ever-extending knowledge base. No stone is left unturned. No assumptions about the system's limits are made. You don't ask the system what it can do for you, you will find a way to make it do what you want.
+On the hunt for something out of the ordinary you soak up every bit of information about the system and match it against your ever-extending knowledge base. No stone is left unturned. No assumptions about the system's limits are made. You don't ask the system what it can do for you, you will find a way to make it do what you want.
 
 All of a sudden, something unexpected happens. Your gut already knows what's going on, but your mind tells you that this can't be true. "It's probably just a glitch", you tell yourself.
 
@@ -24,6 +24,6 @@ There it is. Right in front of you. The flaw that tried so hard to hide itself f
 
 As its god you understand how it works. You understand how to leverage it to defeat the system.
 
-You string together the instructions that will ultimately lead to its demise. It started as a seemingly random glitch, then became reproducible and through your understanding at this very moment in time manifested itself as a fully automated exploit.
+You string together the instructions that will ultimately lead to its demise. It started as a seemingly random glitch, then became reproducible and through your knowledge and creativity at this very moment in time manifested itself as a fully automated exploit.
 
 Congratulations, friend. You are now the god of the system.

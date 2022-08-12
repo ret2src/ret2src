@@ -26,4 +26,11 @@ As its god you understand how it works. You understand how to leverage it to def
 
 You string together the instructions that will ultimately lead to its demise. It started as a seemingly random glitch. An elusive glitch that lost its elusiveness through the power of the tracers and probes mapping out this digital maze at your command. In this final phase of your tedious battle against the system you leverage all of your knowledge and creativity at this very moment in time and force the glitch to manifest itself as a fully automated exploit.
 
+Now that you control it, you ask the glitch what its name is. It tells you what it waited to tell for all its life:
+
+``` cmd
+C:\Windows\system32> whoami
+NT AUTHORITY\SYSTEM
+```
+
 Congratulations, friend. You are now the god of the system.

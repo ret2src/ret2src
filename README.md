@@ -1,5 +1,7 @@
 # Down the Rabbit Hole
 
+![](alice.jpeg)
+
 At first, you stare at an unknown system. You understand nothing but try everything.
 
 After a while, you slowly begin to understand how parts of the system work.

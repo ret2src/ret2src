@@ -12,7 +12,7 @@ You start to lose your patience. Your mind relentlessly tries to uncover the fla
 
 You continue to try things because you know you have to try harder.
 
-Each step taken from here is a mirror of your knowledge, creativity and intuition at this very moment. A wild ride through your neural pathways.
+Each step taken from here is a reflection of your knowledge, creativity and intuition at this very moment. A wild ride through your neural pathways.
 
 On the hunt for something out of the ordinary you soak up every bit of information about the system and match it against your ever-extending knowledge base. No stone is left unturned. No assumptions about the system's limits are made. You don't ask the system what it can do for you, you will find a way to make it do what you want.
 
